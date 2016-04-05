@@ -11,7 +11,7 @@ public class Test_getNewId {
 		
 		long newid = ProcessToDo.getNewId();
 		System.out.println("test newid = " + newid);
-		assertTrue(newid == 27);
+		assertTrue(newid == 28);
 		
 		
 		
